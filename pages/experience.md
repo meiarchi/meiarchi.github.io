@@ -71,11 +71,11 @@ Intern Architect - Ja&co, Belgrade, Serbia
 
 # Languages 
 
-Serbian - mother tongue 
-Croatian - mother tongue  
-English - advanced / fluent
-Chinese - intermediate
-German - beginner
+- Serbian - mother tongue 
+- Croatian - mother tongue  
+- English - advanced / fluent
+- Chinese - intermediate
+- German - beginner
 
 # Programming Languages 
 - HTML
