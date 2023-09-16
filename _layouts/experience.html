@@ -3,11 +3,11 @@ layout: default
 ---
 
 <section>
-  <div class="blog-container">
+  <div class="experience-container">
     {% for post in site.posts %}
-      <div class="blog-unit">
+      <div class="experience-unit">
         <h1><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></h1>
-        <span class="blog-date">
+        <span class="experience-date">
           {% assign d = post.date | date: "%-d"  %}
           {{ post.date | date: "%B" }}
           {% case d %}

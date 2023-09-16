@@ -3,7 +3,7 @@
 
 menu:
 - {name: 'Projects', url: ''}
-- {name: 'Skills',     url: 'skills'}
+- {name: 'experience',  url: 'experience'}
 - {name: 'About',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
