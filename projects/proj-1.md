@@ -13,7 +13,7 @@ Through this exploration, I'm not only creating captivating designs but also gai
 Ultimately, my journey with AI in Photoshop isn't just about producing remarkable designs; it's about continuous improvement. It's a testament to how technology can elevate artistry, and I'm excited to see where this fusion of human creativity and artificial intelligence will take me in the futuristic world of architectural design.
 
 
-{% include image.html image="projects/proj-1/2.png" %}
+{% include image.html  url="http://www.gratisography.com" image="projects/proj-1/2.png" %}
 
 {% include image.html image="projects/proj-1/3.png" %}
 
