@@ -1,8 +1,20 @@
 ---
 layout: post
-title: 'Project Two'
+title: 'Creative Urban Regeneration of Smderevo Waterfron'
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+The work treats a selected area on riverside in Smderevo, Serbia, the concept was to create open green spaces, which are missing in Smederevo, as well as to finally create a promenade along the Danube river and provide better access to the fortress. The park is designed with several different zones that provide different activities. 
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+Project was done under mentorship of prof. Aleksandra Đukić and asst. Branislav Antonić in year 2021 summer semester of master studies. 
+
+This project was part of FLAGSHIP PROJECTS -Creative Urban Regeneration of Smderevo Waterfron.
+
+{% include image.html  image="projects/proj-2/5.jpg" %}
+
+{% include image.html  image="projects/proj-2/1.jpg" %}
+
+{% include image.html  image="projects/proj-2/2.jpg" %}
+
+{% include image.html  image="projects/proj-2/3.jpg" %}
+
+{% include image.html  image="projects/proj-2/4.jpg" %}
