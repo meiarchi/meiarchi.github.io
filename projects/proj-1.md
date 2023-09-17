@@ -13,30 +13,30 @@ Through this exploration, I'm not only creating captivating designs but also gai
 Ultimately, my journey with AI in Photoshop isn't just about producing remarkable designs; it's about continuous improvement. It's a testament to how technology can elevate artistry, and I'm excited to see where this fusion of human creativity and artificial intelligence will take me in the futuristic world of architectural design.
 
 
-{% include image.html image="projects/proj-1/2.jpg" %}
+{% include image.html image="projects/proj-1/2.png" %}
 
-{% include image.html image="projects/proj-1/3.jpg" %}
+{% include image.html image="projects/proj-1/3.png" %}
 
-{% include image.html image="projects/proj-1/4.jpg" %}
+{% include image.html image="projects/proj-1/4.png" %}
 
-{% include image.html image="projects/proj-1/5.jpg" %}
+{% include image.html image="projects/proj-1/5.png" %}
 
-{% include image.html image="projects/proj-1/6.jpg" %}
+{% include image.html image="projects/proj-1/6.png" %}
 
-{% include image.html image="projects/proj-1/1.jpg" %}
+{% include image.html image="projects/proj-1/1.png" %}
 
-{% include image.html image="projects/proj-1/7.jpg" %}
+{% include image.html image="projects/proj-1/7.png" %}
 
-{% include image.html image="projects/proj-1/8.jpg" %}
+{% include image.html image="projects/proj-1/8.png" %}
 
-{% include image.html image="projects/proj-1/9.jpg" %}
+{% include image.html image="projects/proj-1/9.png" %}
 
-{% include image.html image="projects/proj-1/10.jpg" %}
+{% include image.html image="projects/proj-1/10.png" %}
 
-{% include image.html image="projects/proj-1/11.jpg" %}
+{% include image.html image="projects/proj-1/11.png" %}
 
-{% include image.html image="projects/proj-1/12.jpg" %}
+{% include image.html image="projects/proj-1/12.png" %}
 
-{% include image.html image="projects/proj-1/13.jpg" %}
+{% include image.html image="projects/proj-1/13.png" %}
 
-{% include image.html image="projects/proj-1/14.jpg" %}
+{% include image.html image="projects/proj-1/14.png" %}
