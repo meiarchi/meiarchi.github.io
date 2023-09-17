@@ -1,8 +1,42 @@
 ---
 layout: post
-title: 'Project One'
+title: 'Generative AI projects'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+In my pursuit of designing cutting-edge spaces, I've harnessed the power of AI tools within Adobe Photoshop to embark on an exciting journey of experimentation. Through the fusion of artificial intelligence and design, I'm reshaping ordinary spaces into futuristic wonders.
 
-{% include image.html image="projects/proj-1/17.jpg" %}
+Utilizing AI algorithms and plugins, I've embarked on a quest to explore the uncharted realms of architecture and urban design. With the ability to manipulate textures, colors, and forms in an instant, I've pushed the boundaries of creativity, transforming and crating new worlds.
 
+My experimentation extends to diverse subjects, from minimalistic urban lofts to opulent underwater habitats. These AI-powered tools have become my virtual paintbrushes, allowing me to conceptualize, iterate, and refine my ideas like never before.
+
+Through this exploration, I'm not only creating captivating designs but also gaining invaluable knowledge. AI tools provide insights into trends, spatial dynamics, and design aesthetics that fuel my growth as a designer. They've become an essential part of my creative process, aiding in my quest for innovation and excellence.
+
+Ultimately, my journey with AI in Photoshop isn't just about producing remarkable designs; it's about continuous improvement. It's a testament to how technology can elevate artistry, and I'm excited to see where this fusion of human creativity and artificial intelligence will take me in the futuristic world of architectural design.
+
+
+{% include image.html image="projects/proj-1/2.jpg" %}
+
+{% include image.html image="projects/proj-1/3.jpg" %}
+
+{% include image.html image="projects/proj-1/4.jpg" %}
+
+{% include image.html image="projects/proj-1/5.jpg" %}
+
+{% include image.html image="projects/proj-1/6.jpg" %}
+
+{% include image.html image="projects/proj-1/1.jpg" %}
+
+{% include image.html image="projects/proj-1/7.jpg" %}
+
+{% include image.html image="projects/proj-1/8.jpg" %}
+
+{% include image.html image="projects/proj-1/9.jpg" %}
+
+{% include image.html image="projects/proj-1/10.jpg" %}
+
+{% include image.html image="projects/proj-1/11.jpg" %}
+
+{% include image.html image="projects/proj-1/12.jpg" %}
+
+{% include image.html image="projects/proj-1/13.jpg" %}
+
+{% include image.html image="projects/proj-1/14.jpg" %}
