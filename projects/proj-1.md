@@ -15,28 +15,28 @@ Ultimately, my journey with AI in Photoshop isn't just about producing remarkabl
 
 {image="projects/proj-1/2.png" %}
 
-{% include image.html image="projects/proj-1/3.png" %}
+{image="projects/proj-1/3.png" %}
 
-{% include image.html image="projects/proj-1/4.png" %}
+{image="projects/proj-1/4.png" %}
 
-{% include image.html image="projects/proj-1/5.png" %}
+{image="projects/proj-1/5.png" %}
 
-{% include image.html image="projects/proj-1/6.png" %}
+{image="projects/proj-1/6.png" %}
 
-{% include image.html image="projects/proj-1/1.png" %}
+{image="projects/proj-1/1.png" %}
 
-{% include image.html image="projects/proj-1/7.png" %}
+{image="projects/proj-1/7.png" %}
 
-{% include image.html image="projects/proj-1/8.png" %}
+{image="projects/proj-1/8.png" %}
 
-{% include image.html image="projects/proj-1/9.png" %}
+{image="projects/proj-1/9.png" %}
 
-{% include image.html image="projects/proj-1/10.png" %}
+{image="projects/proj-1/10.png" %}
 
-{% include image.html image="projects/proj-1/11.png" %}
+{image="projects/proj-1/11.png" %}
 
-{% include image.html image="projects/proj-1/12.png" %}
+{image="projects/proj-1/12.png" %}
 
-{% include image.html image="projects/proj-1/13.png" %}
+{image="projects/proj-1/13.png" %}
 
-{% include image.html image="projects/proj-1/14.png" %}
+{image="projects/proj-1/14.png" %}
