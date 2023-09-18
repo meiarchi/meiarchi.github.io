@@ -1,8 +1,12 @@
 ---
 layout: post
-title: 'Project Three'
+title: 'Rehabilitation center on Avala'
 ---
 
-Donec condimentum a leo nec posuere. Vestibulum faucibus leo nec nisl varius vestibulum. Aenean vel quam semper, vestibulum augue at, rutrum ligula. Ut gravida, ex sit amet fringilla luctus, lorem quam mollis elit, et tristique leo urna non odio. Curabitur elementum viverra consequat. Vestibulum vitae dolor tristique, pellentesque metus non, suscipit nunc. Aenean id sem eu libero sodales dignissim eget quis quam. Phasellus quis lectus ac odio convallis luctus. Praesent sed ligula ipsum. Nullam ultricies nunc nec turpis porttitor elementum. Vestibulum vitae imperdiet elit, nec mattis magna. Vestibulum id neque nec turpis ullamcorper rutrum ac non ligula. Quisque nec pellentesque diam. Vestibulum at aliquam mi, vitae fringilla quam. Suspendisse potenti.
+The work treats a selected area on Mountain Avala in Belgrade, Serbia, the concept was based on a healthy city and sustainable architecture, the project envisages rehabilitation, accommodation and garden rehabilitation, relaxation and recreation. Through different types of urban gardens, space users can recover, recreate and connect with nature. The greatest emphasis was on the smallest possible construction, and on the largest possible green space, as well as not to damage the forest itself, but to improve its condition.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-3/clothes.jpg" %}
+The project was done in cooperation with colleague Marija Desić, under mentorship of prof. Biserka Mitrović and Asst. Jelena Marić in year 2021 winter semester of master studies. 
+
+This project was at the XI Salon of landscape architecture in Belgrade, Serbia from Jun to July 2021
+
+{% include image.html image="projects/proj-3/1.jpg" %}
