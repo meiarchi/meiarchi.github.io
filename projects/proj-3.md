@@ -10,3 +10,17 @@ The project was done in cooperation with colleague Marija Desić, under mentorsh
 This project was at the XI Salon of landscape architecture in Belgrade, Serbia from Jun to July 2021
 
 {% include image.html image="projects/proj-3/1.jpg" %}
+
+{% include image.html image="projects/proj-3/2.jpg" %}
+
+{% include image.html image="projects/proj-3/3.jpg" %}
+
+{% include image.html image="projects/proj-3/4.jpg" %}
+
+{% include image.html image="projects/proj-3/5.jpg" %}
+
+{% include image.html image="projects/proj-3/6.jpg" %}
+
+{% include image.html image="projects/proj-3/7.jpg" %}
+
+{% include image.html image="projects/proj-3/8.jpg" %}
