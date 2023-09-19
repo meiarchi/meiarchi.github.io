@@ -1,8 +1,18 @@
 ---
 layout: post
-title: 'Project Six'
+title: 'wooden Japanese pavilion'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porta tortor eros, et cursus diam feugiat eu. Mauris euismod volutpat leo porttitor congue. Curabitur quis purus dignissim, sagittis enim non, interdum enim. Sed vitae nibh sed ante luctus finibus. In fermentum arcu eget volutpat blandit. Nullam leo magna, luctus ac consequat ut, ultrices quis quam. Nullam orci magna, tincidunt consequat arcu vel, facilisis hendrerit lectus. Mauris dapibus, lorem et tincidunt bibendum, massa ipsum consectetur elit, at venenatis nulla nulla id ante.
+Idea was to create a modern gallery with wooden construction. Through this project I wanted to explore traditional and modern Japanese constructions. Kengo Kuma’s modern Japanese roofs were my main research.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-5/gun-pants.jpg" %}
+Project was done under mentorship of prof. Ljiljana Đukanović and asst. Dijana Savanović in year 2018 summer semester.
+
+{% include image.html image="projects/proj-6/1.jpg" %}
+
+{% include image.html image="projects/proj-6/2.jpg" %}
+
+{% include image.html image="projects/proj-6/3.jpg" %}
+
+{% include image.html image="projects/proj-6/4.jpg" %}
+
+{% include image.html image="projects/proj-6/5.jpg" %}
