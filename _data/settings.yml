@@ -19,8 +19,8 @@ projects:
 - {name: 'Wooden Japanese pavilion',  url: 'proj-6'}
 - {name: 'Vračar luxury housing',  url: 'proj-7'}
 - {name: 'Archaeological and Landscape Living Lab',  url: 'proj-8'}
-- {name: 'Project 9',  url: 'proj-9'}
-- {name: 'Project Ten',  url: 'proj-10'}
+- {name: 'Work projects interior design',  url: 'proj-9'}
+- {name: 'Work projects exterior design',  url: 'proj-10'}
 
 #-------------------------------
 # Contact Section
