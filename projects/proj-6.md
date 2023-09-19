@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'wooden Japanese pavilion'
+title: 'Wooden Japanese pavilion'
 ---
 
 Idea was to create a modern gallery with wooden construction. Through this project I wanted to explore traditional and modern Japanese constructions. Kengo Kuma’s modern Japanese roofs were my main research.

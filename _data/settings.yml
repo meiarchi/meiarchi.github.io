@@ -15,9 +15,12 @@ projects:
 - {name: 'Creative Urban Regeneration of Smderevo Waterfront',   url: 'proj-2'}
 - {name: 'Rehabilitation center on Avala', url: 'proj-3'}
 - {name: 'Sustainable green neighborhood',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
-- {name: 'Project Six',  url: 'proj-6'}
+- {name: '”Kala” research center',  url: 'proj-5'}
+- {name: 'Wooden Japanese pavilion',  url: 'proj-6'}
 - {name: 'Project Seven',  url: 'proj-7'}
+- {name: 'Project 8',  url: 'proj-8'}
+- {name: 'Project 9',  url: 'proj-9'}
+- {name: 'Project Ten',  url: 'proj-10'}
 
 #-------------------------------
 # Contact Section
