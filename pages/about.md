@@ -6,7 +6,7 @@ permalink: /about
 
 I'm an Architect based in Berlin at the moment, but I'm not just an architect; I'm a creative, positive force in the world of design. Beyond architecture, I'm deeply drawn to photography, painting, and gaming – all of which fuel my imaginative spirit. I thrive in collaborative environments, yet I'm equally adept at independent work. My experience spans working with international teams, bridging cultural differences effortlessly thanks to my fluency in different languages.
 
-# Educaton
+# Education
 9.2019 -7.2021
 Master degree of Architecture, Faculty of Architecture, 
 University of Belgrade, Belgrade, Serbia
