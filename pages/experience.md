@@ -60,6 +60,8 @@ Intern Architect - Ja&co, Belgrade, Serbia
 
 - Allplan
 - Revit
+- ArchiCad
+- EliteCAD
 - Enscape
 - SketchUp
 - Lumion
@@ -80,9 +82,9 @@ Intern Architect - Ja&co, Belgrade, Serbia
 
 - Serbian - mother tongue 
 - Croatian - mother tongue  
-- English - advanced / fluent
-- Chinese - intermediate
-- German - beginner
+- English - advanced / fluent (C1)
+- German - intermediate (B2)
+- Chinese - intermediate (B1)
 
 # Programming Languages 
 - HTML
