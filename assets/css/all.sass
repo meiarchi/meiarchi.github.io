@@ -17,3 +17,23 @@ $documentBackgroundColor: #fff
 @import '1-tools/-tools-dir'
 @import '2-base/-base-dir'
 @import '3-sections/-sections-dir'
+
+language-switcher {
+    display: inline; /* Ensures it stays in the same line */
+    margin-left: 20px; /* Space between menu items and language switcher */
+}
+
+.language-switcher a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.language-switcher a:hover {
+    text-decoration: underline;
+}
+
+.language-switcher a.active {
+    font-weight: bold;
+    text-decoration: underline;
+    color: #0056b3; /* Adjust color for active link */
+}
