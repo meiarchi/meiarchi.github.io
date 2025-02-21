@@ -1,9 +1,5 @@
----
-layout: page
-title: Experience
-permalink: /experience
----
 
+<<<<<<<< HEAD:pages/en/experience.md
 # Experience
 
 4.2023 - 8.2023
@@ -80,3 +76,5 @@ Intern Architect - Ja&co, Belgrade, Serbia
 # Programming Languages 
 - HTML
 - Lua 
+========
+>>>>>>>> d36e1afaa67e12688edf1f0da4df88fb63f40314:pages/experience.md

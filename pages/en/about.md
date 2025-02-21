@@ -1,9 +1,5 @@
----
-layout: page
-title: About
-permalink: /about
----
 
+<<<<<<<< HEAD:pages/en/about.md
 I'm an Architect based in Berlin at the moment, but I'm not just an architect; I'm a creative, positive force in the world of design. Beyond architecture, I'm deeply drawn to photography, painting, and gaming – all of which fuel my imaginative spirit. I thrive in collaborative environments, yet I'm equally adept at independent work. My experience spans working with international teams, bridging cultural differences effortlessly thanks to my fluency in different languages.
 
 # Education
@@ -84,3 +80,5 @@ Bauhaus urban design workshop in Belgrade, Serbia
 - photography
 - cooking 
 - traveling
+========
+>>>>>>>> d36e1afaa67e12688edf1f0da4df88fb63f40314:pages/about.md
