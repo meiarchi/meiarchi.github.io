@@ -10,3 +10,7 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 title:		   "Milica Petrinjak"
 description: "Powered by Jekyll and GitHub Pages"
 author:      "Milica Petrinjak"
+
+# Multilingual support
+languages: ["en", "de"]
+default_lang: "en"
