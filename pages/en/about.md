@@ -23,13 +23,6 @@ University of Belgrade, Belgrade, Serbia
 
 # Courses
 
-10.2024-1.2025
-Course B2.1 started at VHS Berlin, Germany 
-
-3.2024-8.2024
-Completed courses B1.1 and B1.2 at the VHS Berlin, Germany
-and received B1 certificate after successful exam
-
 4.2023-6.2023
 Goethe Language School - German course
 
