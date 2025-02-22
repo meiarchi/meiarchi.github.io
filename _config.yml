@@ -2,7 +2,7 @@
 
 port: 4000
 markdown:  kramdown
-permalink: /:lang/:title
+permalink: /:lang/:categories/:title/
 plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
