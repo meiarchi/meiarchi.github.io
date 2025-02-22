@@ -9,9 +9,9 @@ menu:
     - {name: 'Contact', url: 'contact'}
   de:
     - {name: 'Projekte', url: ''}
-    - {name: 'Erfahrung', url: 'experience'}
-    - {name: 'Über', url: 'about'}
-    - {name: 'Kontakt', url: 'contact'}
+    - {name: 'Erfahrung', url: 'erfahrung'}
+    - {name: 'Über Mich', url: 'über mich'}
+    - {name: 'Kontakt', url: 'kontakt'}
 
 #-------------------------------
 # Projects Section
