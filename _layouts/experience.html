@@ -2,14 +2,14 @@
 ---
 
 <!DOCTYPE html>
-<html class="">
-  <head>
+<html lang="{{ page.lang | default: 'en' }}">
+<head>
     <meta charset="UTF-8">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.data.settings.seo.description }}">
-    <meta rel="author" href="{{ site.data.settings.seo.rel-author }}">
-    <meta rel="publisher" href="{{ site.data.settings.seo.rel-publisher }}">
+    <link rel="author" href="{{ site.data.settings.seo.rel-author }}">
+    <link rel="publisher" href="{{ site.data.settings.seo.rel-publisher }}">
     <title>
       {% if page.title == "Home" %}
         {{ site.title }}
@@ -29,14 +29,13 @@
     {% include analytics.html %}
     <!-- Use Jekyll SEO plugin -->
     {% seo %}
-  </head>
-  <body>
+</head>
+<body>
     <div class="site-container">
-      {% include header.html %}
-      {{ content }}
-      {% include footer.html %}
+        {% include header.html %}
+        {{ content }}
+        {% include footer.html %}
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-  </body>
+</body>
 </html>
-
