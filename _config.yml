@@ -1,15 +1,13 @@
 # Build settings
 
-port: 4000
-markdown:  kramdown
+markdown: kramdown
 permalink: /:lang/:categories/:title/
-plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
+plugins: [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-
-title:		   "Milica Petrinjak"
+# Customise atom feed settings
+title: "Milica Petrinjak"
 description: "Powered by Jekyll and GitHub Pages"
-author:      "Milica Petrinjak"
+author: "Milica Petrinjak"
 
 # Multilingual support
 languages: ["en", "de"]
