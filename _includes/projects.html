@@ -1,7 +1,13 @@
+---
+layout: default
+lang: en  # or set dynamically based on user selection
+---
+
 <section>
   <div class="project-container">
+    {% assign lang = page.lang | default: site.default_lang %}
     {% for project in site.data.settings.projects %}
-      <a href="{{ site.github.url }}/{{ page.lang }}/projects/{{ project.url }}">
+      <a href="{{ site.github.url }}/{{ lang }}/projects/{{ project.url }}">
         <div class="project-unit" 
              data-folder="{{ site.github.url }}/projects/{{ project.url }}" 
              style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.jpg)">
@@ -13,3 +19,4 @@
     {% endfor %}
   </div>
 </section>
+
