@@ -7,7 +7,7 @@ In dieser Rolle als Junior Architekt bei Atelje AL war ich intensiv an der Gesta
 
 Ein bemerkenswerter Erfolg während meiner Zeit bei Atelje AL war mein schneller Erwerb von Kenntnissen in Revit. Innerhalb von nur einem Monat beherrschte ich diese wichtige Architektursoftware selbstständig, was meine Effektivität in den laufenden Projekten erheblich steigerte. Diese Erfahrung war transformativ und erweiterte mein Fähigkeiten und meinen architektonischen Horizont.
 
-Ich habe auch verschiedene Designprojekte in meiner Position im Berliner Büro Buro 213 durchgeführt, aber diese werden hier nicht angezeigt.
+Ich habe auch verschiedene Designprojekte in meiner Positionen im Berlinern Büros Büro 213 und K-Mäleon Haus gemacht, aber diese werden hier nicht angezeigt.
 
 
 
