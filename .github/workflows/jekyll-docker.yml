@@ -14,8 +14,13 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
 
+    - name: Debug Git safe directories
+      run: git config --list | grep safe.directory || echo "No safe directories configured"
+
     - name: Fix Git safe directory error
-      run: git config --global --add safe.directory /github/workspace
+      run: |
+        git config --global --add safe.directory /github/workspace
+        git config --list | grep safe.directory || echo "No safe directories configured"
 
     - name: Build the site in the jekyll/builder container
       run: |
