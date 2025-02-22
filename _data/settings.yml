@@ -2,61 +2,69 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
-- {name: 'Experience',  url: 'experience'}
-- {name: 'About',    url: 'about'}
-- {name: 'Contact',  url: 'contact'}
+  en:
+    - {name: 'Projects', url: ''}
+    - {name: 'Experience', url: 'experience'}
+    - {name: 'About', url: 'about'}
+    - {name: 'Contact', url: 'contact'}
+  de:
+    - {name: 'Projekte', url: ''}
+    - {name: 'Erfahrung', url: 'experience'}
+    - {name: 'Über', url: 'about'}
+    - {name: 'Kontakt', url: 'contact'}
 
 #-------------------------------
 # Projects Section
 
 projects:
-- {name: 'Generative AI',   url: 'proj-1'}
-- {name: 'Creative Urban Regeneration of Smderevo Waterfront',   url: 'proj-2'}
-- {name: 'Rehabilitation center on Avala', url: 'proj-3'}
-- {name: 'Sustainable green neighborhood',  url: 'proj-4'}
-- {name: '”Kala” research center',  url: 'proj-5'}
-- {name: 'Wooden Japanese pavilion',  url: 'proj-6'}
-- {name: 'Vračar luxury housing',  url: 'proj-7'}
-- {name: 'Archaeological and Landscape Living Lab',  url: 'proj-8'}
-- {name: 'Work projects interior design',  url: 'proj-9'}
-- {name: 'Work projects exterior design',  url: 'proj-10'}
+  en:
+    - {name: 'Generative AI', url: 'proj-1'}
+    - {name: 'Creative Urban Regeneration of Smederevo Waterfront', url: 'proj-2'}
+    - {name: 'Rehabilitation Center on Avala', url: 'proj-3'}
+    - {name: 'Sustainable Green Neighborhood', url: 'proj-4'}
+    - {name: '”Kala” Research Center', url: 'proj-5'}
+    - {name: 'Wooden Japanese Pavilion', url: 'proj-6'}
+    - {name: 'Vračar Luxury Housing', url: 'proj-7'}
+    - {name: 'Archaeological and Landscape Living Lab', url: 'proj-8'}
+    - {name: 'Work Projects Interior Design', url: 'proj-9'}
+    - {name: 'Work Projects Exterior Design', url: 'proj-10'}
+  de:
+    - {name: 'Generative KI', url: 'proj-1_de'}
+    - {name: 'Kreative städtische Regeneration der Smederevo-Ufer', url: 'proj-2_de'}
+    - {name: 'Rehabilitationszentrum auf Avala', url: 'proj-3_de'}
+    - {name: 'Nachhaltige grüne Nachbarschaft', url: 'proj-4_de'}
+    - {name: '”Kala” Forschungszentrum', url: 'proj-5_de'}
+    - {name: 'Holz Japanischer Pavillon', url: 'proj-6_de'}
+    - {name: 'Luxuswohnungen in Vračar', url: 'proj-7_de'}
+    - {name: 'Archäologisches und Landschafts-Living Lab', url: 'proj-8_de'}
+    - {name: 'Innenarchitektur-Projekte', url: 'proj-9_de'}
+    - {name: 'Außenarchitektur-Projekte', url: 'proj-10_de'}
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'instagram', link: 'https://www.instagram.com/mei_arch/'}
-- {icon: 'linkedin',  link: 'https://www.linkedin.com/in/milica-petrinjak-a9828a82/'}
-- {icon: 'envelope',  link: 'mailto:mailto:milicapetrinjak@gmail.com'}
-
-# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+  - {icon: 'instagram', link: 'https://www.instagram.com/mei_arch/'}
+  - {icon: 'linkedin', link: 'https://www.linkedin.com/in/milica-petrinjak-a9828a82/'}
+  - {icon: 'envelope', link: 'mailto:milicapetrinjak@gmail.com'}
 
 #-------------------------------
 # SEO Section
 
-# NOTE: Providing SEO information will make this website more searchable on the internet.
-
 seo:
-  description: 'Personal portfolio by Milica Petrinjak '
+  description: 'Personal portfolio by Milica Petrinjak'
   rel-author: 'https://plus.google.com/u/0/#'
   rel-publisher: 'https://plus.google.com/u/0/#'
 
 #-------------------------------
 # Google Analytics Section
 
-# Analytics helps you understand who visits your website.
-# Learn more at: http://support.google.com/analytics/answer/1008065
-
-# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
-
-# If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-analytics-ua: 'UA-112060364-3'
 
 #-------------------------------
 # Disqus Section
 
-# Change to true for Disqus comments
 disqus:
   comments: false
   disqus_shortname: ''
+
