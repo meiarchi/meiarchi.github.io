@@ -2,8 +2,11 @@
 layout: default
 ---
 
-<section>
+<main>
   <div class="page-content">
+    {% if page.title %}
+      <h1>{{ page.title }}</h1>
+    {% endif %}
     {{ content }}
   </div>
-</section>
+</main>
