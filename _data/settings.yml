@@ -52,9 +52,11 @@ social:
 # SEO Section
 
 seo:
-  description: 'Personal portfolio by Milica Petrinjak'
-  rel-author: 'https://plus.google.com/u/0/#'
-  rel-publisher: 'https://plus.google.com/u/0/#'
+  title: 'Milica Petrinjak - Personal Portfolio'
+  description: 'Explore the architectural portfolio of Milica Petrinjak, showcasing innovative designs and projects.'
+  keywords: 'architecture, design, portfolio, Milica Petrinjak'
+  rel-author: 'https://www.linkedin.com/in/milica-petrinjak-a9828a82/'
+  rel-publisher: 'https://www.linkedin.com/in/milica-petrinjak-a9828a82/'
 
 #-------------------------------
 # Google Analytics Section
@@ -67,4 +69,3 @@ google-analytics-ua: 'UA-112060364-3'
 disqus:
   comments: false
   disqus_shortname: ''
-
