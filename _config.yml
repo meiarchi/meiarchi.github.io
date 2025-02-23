@@ -1,17 +1,38 @@
-# Build settings
-markdown: kramdown
-permalink: /:lang/:categories/:title/
-plugins:
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
+title: "Your Portfolio Title"
+description: "An architecture portfolio showcasing my work."
+baseurl: "" 
+url: "https://yourgithubusername.github.io"
 
-# Customise atom feed settings
-title: "Milica Petrinjak"
-description: "Powered by Jekyll and GitHub Pages"
-author: "Milica Petrinjak"
-
-# Multilingual support
-languages: ["en", "de"]
+# 🔹 Default Language & Available Languages
 default_lang: "en"
-lang: "en"  # Set the default language for the site
+languages: ["en", "de"]
+
+# 🔹 SEO Settings (These will be referenced in `settings.yml`)
+seo:
+  description_en: "An architecture portfolio showcasing projects and design concepts."
+  description_de: "Ein Architekturportfolio mit Projekten und Designkonzepten."
+  rel-author: "https://yourwebsite.com/author"
+  rel-publisher: "https://yourwebsite.com/publisher"
+
+# 🔹 Collections (for projects, blogs, etc.)
+collections:
+  projects:
+    output: true
+    permalink: "/:collection/:name"
+
+# 🔹 Navigation (Use language keys)
+menu:
+  en:
+    - name: "Projects"
+      url: "projects"
+    - name: "About"
+      url: "about"
+    - name: "Contact"
+      url: "contact"
+  de:
+    - name: "Projekte"
+      url: "projekte"
+    - name: "Über mich"
+      url: "ueber-mich"
+    - name: "Kontakt"
+      url: "kontakt"
