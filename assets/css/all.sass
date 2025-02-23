@@ -1,6 +1,4 @@
-//------------------------------------------------
 // Set some colors as Sass variables
-
 $accent-color: #BD5248;
 $accent: #c99065;
 $accent-light: adjust-hue(saturate(lighten($accent, 11%), 12.6%), 14%);
@@ -18,11 +16,12 @@ $documentBackgroundColor: #fff;
 
 // Language switcher styles
 .language-switcher {
-    display: inline; /* Ensures it stays in the same line */
-    margin-left: 20px; /* Space between menu items and language switcher */
+    display: flex; // Use flexbox for layout
+    align-items: center; // Aligns items vertically
+    margin-left: 20px; // Space between menu items and language switcher
 
     a {
-        color: #007bff;
+        color: $accent; // Use the accent color variable
         text-decoration: none;
 
         &:hover {
@@ -32,9 +31,7 @@ $documentBackgroundColor: #fff;
         &.active {
             font-weight: bold;
             text-decoration: underline;
-            color: #0056b3; /* Adjust color for active link */
+            color: darken($accent, 10%); // Adjust color for active link
         }
     }
-}
-
 }
