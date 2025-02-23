@@ -5,7 +5,7 @@
   <nav>
     <ul>
       {% assign lang = page.lang | default: site.default_lang %}
-      {% for item in site.data.settings.menu %}
+      {% for item in site.data.settings.menu[lang] %}
         <li><a href="{{ site.github.url }}/{{ lang }}/{{ item.url }}">{{ item.name }}</a></li>
       {% endfor %}
     </ul>
