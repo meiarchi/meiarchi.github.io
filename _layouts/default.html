@@ -5,11 +5,11 @@
 <html lang="{{ page.lang | default: site.default_lang }}">
 <head>
     <meta charset="UTF-8">
-    <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.data.settings.seo.description }}">
     <link rel="author" href="{{ site.data.settings.seo.rel-author }}">
     <link rel="publisher" href="{{ site.data.settings.seo.rel-publisher }}">
+    
     <title>
         {% if page.title == "Home" %}
             {{ site.title }}
@@ -17,16 +17,25 @@
             {{ page.title }} | {{ site.title }}
         {% endif %}
     </title>
+
     <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-    <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    {% feed_meta %}
-    <script type="text/javascript" async
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
-    </script>
-    {% include analytics.html %}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+
+    <!-- Modernizr for better browser compatibility -->
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+    <!-- Jekyll SEO plugin -->
     {% seo %}
+
+    <!-- Jekyll Feeds (RSS) -->
+    {% feed_meta %}
+
+    <!-- MathJax (loads asynchronously to avoid render blocking) -->
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+    <!-- Include Google Analytics -->
+    {% include analytics.html %}
 </head>
 <body>
     <div class="site-container">
@@ -34,6 +43,8 @@
         {{ content }}
         {% include footer.html %}
     </div>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+    <!-- jQuery (ensure you're using the latest version) -->
+    <script defer src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </body>
 </html>
