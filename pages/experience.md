@@ -6,6 +6,12 @@ permalink: /experience
 
 # Experience
 
+02.2024 - Present 
+Architect - K-MÄLEON, Berlin, Germany
+- Preparation of design plans - concept design and building permits (LPH1-LPH9 in EliteCAD), site visits,  
+  preparation of exposés and presentations, represented the office at conferences (GreeNest) 
+- Visualizations and 3D models using CAD programs (EliteCAD, LUMION)  
+
 4.2023 - 8.2023
 Architect - 213 Buro, Berlin, Germany
 - preparation of the design plans - concept design and building permit 
