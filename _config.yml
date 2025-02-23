@@ -1,8 +1,10 @@
 # Build settings
-
 markdown: kramdown
 permalink: /:lang/:categories/:title/
-plugins: [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Customise atom feed settings
 title: "Milica Petrinjak"
@@ -12,3 +14,4 @@ author: "Milica Petrinjak"
 # Multilingual support
 languages: ["en", "de"]
 default_lang: "en"
+lang: "en"  # Set the default language for the site
