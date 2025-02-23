@@ -1,8 +1,7 @@
 ---
 ---
-
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: 'en' }}">
+<html lang="{{ page.lang | default: site.lang }}">
 <head>
     <meta charset="UTF-8">
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -21,13 +20,11 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-    <!-- Use Atom -->
     {% feed_meta %}
     <script type="text/javascript" async
         src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
     </script>
     {% include analytics.html %}
-    <!-- Use Jekyll SEO plugin -->
     {% seo %}
 </head>
 <body>
@@ -39,3 +36,4 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 </body>
 </html>
+
