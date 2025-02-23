@@ -3,14 +3,14 @@
 
 menu:
   en:
-    - {name: 'Projects', url: ''}
+    - {name: 'Projects', url: 'projects'}
     - {name: 'Experience', url: 'experience'}
     - {name: 'About', url: 'about'}
     - {name: 'Contact', url: 'contact'}
   de:
-    - {name: 'Projekte', url: ''}
+    - {name: 'Projekte', url: 'projekte'}
     - {name: 'Erfahrung', url: 'erfahrung'}
-    - {name: 'Über Mich', url: 'über mich'}
+    - {name: 'Über Mich', url: 'ueber-mich'}
     - {name: 'Kontakt', url: 'kontakt'}
 
 #-------------------------------
@@ -53,7 +53,8 @@ social:
 
 seo:
   title: 'Milica Petrinjak - Personal Portfolio'
-  description: 'Explore the architectural portfolio of Milica Petrinjak, showcasing innovative designs and projects.'
+  description_en: 'Explore the architectural portfolio of Milica Petrinjak, showcasing innovative designs and projects.'
+  description_de: 'Entdecken Sie das Architekturportfolio von Milica Petrinjak mit innovativen Designs und Projekten.'
   keywords: 'architecture, design, portfolio, Milica Petrinjak'
   rel-author: 'https://www.linkedin.com/in/milica-petrinjak-a9828a82/'
   rel-publisher: 'https://www.linkedin.com/in/milica-petrinjak-a9828a82/'
@@ -69,3 +70,4 @@ google-analytics-ua: 'UA-112060364-3'
 disqus:
   comments: false
   disqus_shortname: ''
+
