@@ -2,15 +2,14 @@
 ---
 
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.default_lang }}">
-<head>
+<html class="">
+  <head>
     <meta charset="UTF-8">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <!-- Dynamic SEO Meta Description -->
-    <meta name="description" content="{% if page.lang == 'de' %}{{ site.data.settings.seo.description_de }}{% else %}{{ site.data.settings.seo.description_en }}{% endif %}">
-    
+    <meta name="description" content="{{ site.data.settings.seo.description }}">
+    <meta rel="author" href="{{ site.data.settings.seo.rel-author }}">
+    <meta rel="publisher" href="{{ site.data.settings.seo.rel-publisher }}">
     <title>
       {% if page.title == "Home" %}
         {{ site.title }}
@@ -18,34 +17,26 @@
         {{ page.title }} | {{ site.title }}
       {% endif %}
     </title>
-
-    <!-- Stylesheets -->
     <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
-
-    <!-- Alternate language versions for SEO -->
-    <link rel="alternate" hreflang="en" href="{{ site.github.url }}/en{{ page.url }}">
-    <link rel="alternate" hreflang="de" href="{{ site.github.url }}/de{{ page.url }}">
-
-    <!-- Jekyll SEO plugin -->
-    {% seo %}
-
-    <!-- Include Google Analytics -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <!-- Use Atom -->
+    {% feed_meta %}
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
     {% include analytics.html %}
-
-    <!-- Load MathJax for equations -->
-    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-    
-</head>
-<body>
+    <!-- Use Jekyll SEO plugin -->
+    {% seo %}
+  </head>
+  <body>
     <div class="site-container">
-        {% include header.html %}
-        {{ content }}
-        {% include footer.html %}
+      {% include header.html %}
+      {{ content }}
+      {% include footer.html %}
     </div>
-
-    <!-- jQuery (updated version) -->
-    <script defer src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-</body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  </body>
 </html>
+

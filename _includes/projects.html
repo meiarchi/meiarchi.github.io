@@ -1,20 +1,8 @@
----
-layout: default
-lang: en  # or set dynamically based on user selection
----
-
 <section>
   <div class="project-container">
-    {% assign lang = page.lang | default: site.default_lang %}
     {% for project in site.data.settings.projects %}
-      {% assign project_thumbnail = site.github.url | append: "/assets/img/projects/" | append: project.url | append: "/thumbnail.jpg" %}
-      <a href="{{ site.github.url }}/{{ lang }}/projects/{{ project.url }}" aria-label="View {{ project.name }}">
-        <div class="project-unit" 
-             data-folder="{{ site.github.url }}/projects/{{ project.url }}" 
-             style="background-image: url({{ project_thumbnail }});">
-          {% if site.data.images[project.url] %}
-            <img src="{{ project_thumbnail }}" alt="Thumbnail for {{ project.name }}" class="project-thumbnail" onerror="this.onerror=null; this.src='{{ site.github.url }}/assets/img/default-thumbnail.jpg';">
-          {% endif %}
+      <a href="{{ site.github.url }}/projects/{{ project.url }}">
+        <div class="project-unit" data-folder="{{ site.github.url }}/projects/{{ project.url }}" style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.jpg)">
           <div class="project-overlay">
             <strong>{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
           </div>
@@ -23,4 +11,3 @@ lang: en  # or set dynamically based on user selection
     {% endfor %}
   </div>
 </section>
-

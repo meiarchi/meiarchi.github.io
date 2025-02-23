@@ -8,6 +8,7 @@
 # Icon must end with two \r
 Icon
 
+
 # Thumbnails
 ._*
 
@@ -22,24 +23,13 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+
 ### Jekyll ###
 _site
 .jekyll-cache
-*.log
-*.tmp
-*.swp
-.sass-cache
-vendor/bundle
 
 ### Sass ###
 .sass-cache
 
 ### Gemfile ###
 Gemfile.lock
-
-### Other ###
-*.gem
-*.rbc
-*.sass-cache/
-*.scssc
-

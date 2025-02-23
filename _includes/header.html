@@ -1,18 +1,10 @@
 <header>
   <div class="logo">
-    <a href="{{ site.github.url }}/">{{ site.title }}</a>
+    <a href="{{ site.github.url }}/">{{ site.title  }}</a>
   </div>
   <nav>
-    <ul>
-      {% assign lang = page.lang | default: site.default_lang %}
-      {% for item in site.data.settings.menu[lang] %}
-        <li><a href="{{ site.github.url }}/{{ lang }}/{{ item.url }}">{{ item.name }}</a></li>
-      {% endfor %}
-    </ul>
-    <div class="language-switcher">
-      <a href="/en/" {% if page.lang == 'en' %}class="active"{% endif %}>en</a> | 
-      <a href="/de/" {% if page.lang == 'de' %}class="active"{% endif %}>de</a>
-    </div>
+    {% for item in site.data.settings.menu %}
+      <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
+    {% endfor %}
   </nav>
 </header>
-

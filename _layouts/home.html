@@ -1,23 +1,5 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: 'en' }}">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>
-        {% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}
-    </title>
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/all.css">
-</head>
-<body>
-    <header>
-        {% include header.html %}
-    </header>
-    <main>
-        {{ content }}
-    </main>
-    <footer>
-        {% include footer.html %}
-    </footer>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-</body>
-</html>
+---
+layout: default
+---
+
+{% include projects.html %}
