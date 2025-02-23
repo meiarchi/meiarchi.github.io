@@ -1,4 +1,5 @@
 name: Jekyll site CI
+name: Jekyll Build
 
 on:
   push:
@@ -22,8 +23,16 @@ jobs:
         git config --global --add safe.directory /github/workspace
         git config --list | grep safe.directory || echo "No safe directories configured"
 
+    - name: Cache Gems
+      uses: actions/cache@v3
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
-        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future"
+        jekyll/builder:latest /bin/bash -c "jekyll build --future"
