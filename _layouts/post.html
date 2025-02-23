@@ -1,13 +1,14 @@
----
+----
 layout: default
-lang: {{ page.lang | default: site.default_lang }}  # Set the language dynamically
+lang: en  # Fallback, remove if not needed
 ---
 
-<section>
+<section lang="{{ page.lang | default: site.default_lang }}">
   <div class="post-container">
     <h4 class="project-title">{{ page.title }}</h4>
     <div class="project-load">{{ content }}</div>
   </div>
+  
   {% if site.data.settings.disqus.comments %}
     {% include disqus.html %}
   {% endif %}
