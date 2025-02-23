@@ -1,7 +1,7 @@
 body {
     font-family: 'Montserrat', sans-serif; /* Replace with your chosen font */
-    color: #333;
-    background-color: #fff;
+    color: $textColor; /* Use variable for consistency */
+    background-color: $documentBackgroundColor; /* Use variable for consistency */
     line-height: 1.6;
     margin: 0; /* Remove default margin */
 }
@@ -18,19 +18,19 @@ header {
 .logo a {
     font-size: 24px;
     font-weight: bold;
-    color: #333;
+    color: $headlineColor; /* Use variable for consistency */
     text-decoration: none;
 }
 
 nav a {
     margin: 0 15px;
-    color: #007bff; /* Accent color */
+    color: $accent; /* Use accent color variable */
     text-decoration: none;
     transition: color 0.3s; /* Smooth color transition */
 }
 
 nav a:hover {
-    color: #0056b3; /* Darker shade on hover */
+    color: darken($accent, 15%); /* Darker shade on hover */
 }
 
 .language-switcher {
@@ -38,7 +38,7 @@ nav a:hover {
 }
 
 .language-switcher a {
-    color: #007bff;
+    color: $accent; /* Use accent color variable */
     text-decoration: none;
     margin-left: 10px;
 }
@@ -50,7 +50,7 @@ nav a:hover {
 .language-switcher a.active {
     font-weight: bold;
     text-decoration: underline;
-    color: #0056b3; /* Adjust color for active link */
+    color: darken($accent, 15%); /* Adjust color for active link */
 }
 
 section {
@@ -86,3 +86,4 @@ section {
         margin-top: 10px;
     }
 }
+
