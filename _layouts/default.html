@@ -6,9 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{{ site.data.settings.seo.description }}">
-    <link rel="author" href="{{ site.data.settings.seo.rel-author }}">
-    <link rel="publisher" href="{{ site.data.settings.seo.rel-publisher }}">
+    <meta name="description" content="{% if page.lang == 'de' %}{{ site.data.settings.seo.description_de }}{% else %}{{ site.data.settings.seo.description_en }}{% endif %}">
     
     <title>
         {% if page.title == "Home" %}
@@ -22,17 +20,12 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
-    <!-- Modernizr for better browser compatibility -->
-    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
-
-    <!-- Jekyll SEO plugin -->
+    <!-- Alternate language versions for SEO -->
+    <link rel="alternate" hreflang="en" href="{{ site.github.url }}/en{{ page.url }}">
+    <link rel="alternate" hreflang="de" href="{{ site.github.url }}/de{{ page.url }}">
+    
+    <!-- Jekyll SEO -->
     {% seo %}
-
-    <!-- Jekyll Feeds (RSS) -->
-    {% feed_meta %}
-
-    <!-- MathJax (loads asynchronously to avoid render blocking) -->
-    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
     <!-- Include Google Analytics -->
     {% include analytics.html %}
@@ -44,7 +37,7 @@
         {% include footer.html %}
     </div>
 
-    <!-- jQuery (ensure you're using the latest version) -->
+    <!-- jQuery -->
     <script defer src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </body>
 </html>
