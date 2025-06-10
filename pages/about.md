@@ -23,6 +23,15 @@ University of Belgrade, Belgrade, Serbia
 
 # Courses
 
+05.2025 - 07.2025 
+BIM Coordinator and BIM Manager courses in AGT academy Berlin, Germany
+
+10.2024 - 04.2025
+Courses B2.1 and B2.2 at the VHS Berlin, Germany
+
+03.2024 - 08.2024
+Courses B1.1 and B1.2 at the VHS Berlin, Germany
+
 4.2023-6.2023
 Goethe Language School - German course
 
@@ -57,6 +66,11 @@ Beijing Language School at Communication University of China,
 Beijing, China
 
 # Competitions
+
+05.2025
+
+Competition for Modular prefabricated house by Gradnja portal (https://www.gradnja.rs/konkurs-modularna-prefabrikovana-kuca-poziv/)  
+Belgrade, Serbia
 
 7.2021
 XI Salon of landscape architecture in Belgrade, Serbia
