@@ -1,42 +1,39 @@
 ---
 layout: post
-title: 'Generative AI projects'
+title: 'Conceptual architectural competition_Modular Prefabricated House'
 ---
-In my pursuit of designing cutting-edge spaces, I've harnessed the power of AI tools within Adobe Photoshop to embark on an exciting journey of experimentation. Through the fusion of artificial intelligence and design, I'm reshaping ordinary spaces into futuristic wonders.
+Organizer: Gradnja.rs · Year: 2025 · Type: Conceptual architectural competition
 
-Utilizing AI algorithms and plugins, I've embarked on a quest to explore the uncharted realms of architecture and urban design. With the ability to manipulate textures, colors, and forms in an instant, I've pushed the boundaries of creativity, transforming and crating new worlds.
+This regional competition invited architects to design a modular prefabricated house made up of three interconnected modules, each up to 50 m², with the goal of responding to the changing needs of a growing family. The brief emphasized adaptability, sustainability, and the creative use of prefabricated wooden, steel, or concrete systems. Entries were encouraged to reflect not only the physical context, but also the individuality of users and how their spatial needs might evolve
 
-My experimentation extends to diverse subjects, from minimalistic urban lofts to opulent underwater habitats. These AI-powered tools have become my virtual paintbrushes, allowing me to conceptualize, iterate, and refine my ideas like never before.
+My design began with a question: How can a home grow with life — not just in size, but in character, intimacy, and experience?
 
-Through this exploration, I'm not only creating captivating designs but also gaining invaluable knowledge. AI tools provide insights into trends, spatial dynamics, and design aesthetics that fuel my growth as a designer. They've become an essential part of my creative process, aiding in my quest for innovation and excellence.
+The concept is based on a wooden structural system, using glulam beams and columns, designed to be modular, flexible, and buildable. The first 50 m² module includes all necessary functions for a couple, expanded vertically through a mezzanine level that creates spatial layering without increasing the footprint — offering both privacy and openness.
 
-Ultimately, my journey with AI in Photoshop isn't just about producing remarkable designs; it's about continuous improvement. It's a testament to how technology can elevate artistry, and I'm excited to see where this fusion of human creativity and artificial intelligence will take me in the futuristic world of architectural design.
+As the family grows, the house expands — not just horizontally, but vertically. One of the key ideas I explored was the possibility of removing and remounting the roof to add new layers over time. This required careful structural planning and logical sequencing of elements, while maintaining a clear visual identity and material honesty. The wooden roof frame remains visible, celebrating construction as architecture.
 
+Each module was imagined not just as an addition, but as a new moment in life — a children's room, a workspace, a space for rest and reflection. The transitions between modules — both vertical and horizontal — were carefully planned to preserve light, views, and flexibility.
 
-{% include image.html image="projects/proj-1/2.png" %}
+Throughout the process, I thought not only about how the house is built — but how it can be lived in, changed, and loved. I aimed to create a system that is grounded in tradition (drawing from Japanese and Scandinavian influences) yet made for real, modern families, with attention to buildability, proportion, construction details, and emotional quality.
 
-{% include image.html image="projects/proj-1/3.png" %}
+This is not just a modular house — it is a living framework that can evolve with its inhabitants.
 
-{% include image.html image="projects/proj-1/4.png" %}
+{% include image.html image="projects/proj-1/1.jpg" %}
 
-{% include image.html image="projects/proj-1/5.png" %}
+{% include image.html image="projects/proj-1/2.jpg" %}
 
-{% include image.html image="projects/proj-1/6.png" %}
+{% include image.html image="projects/proj-1/3.jpg" %}
 
-{% include image.html image="projects/proj-1/1.png" %}
+{% include image.html image="projects/proj-1/4.jpg" %}
 
-{% include image.html image="projects/proj-1/7.png" %}
+{% include image.html image="projects/proj-1/5.jpg" %}
 
-{% include image.html image="projects/proj-1/8.png" %}
+{% include image.html image="projects/proj-1/6.jpg" %}
 
-{% include image.html image="projects/proj-1/9.png" %}
+{% include image.html image="projects/proj-1/7.jpg" %}
 
-{% include image.html image="projects/proj-1/10.png" %}
+{% include image.html image="projects/proj-1/8.jpg" %}
 
-{% include image.html image="projects/proj-1/11.png" %}
+{% include image.html image="projects/proj-1/9.jpg" %}
 
-{% include image.html image="projects/proj-1/12.png" %}
-
-{% include image.html image="projects/proj-1/13.png" %}
-
-{% include image.html image="projects/proj-1/14.png" %}
+{% include image.html image="projects/proj-1/10.jpg" %}
