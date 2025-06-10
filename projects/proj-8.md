@@ -7,14 +7,14 @@ The project was based in centre of Vračar in Belgrade, Serbia near temple st. S
 
 The project was done under mentorship of prof. Shin Yokoo, prof. Vladimir Lojanica and Asst. Ksenija Pantović in year 2018 winter semester.
 
-{% include image.html image="projects/proj-7/6.jpg" %}
+{% include image.html image="projects/proj-8/6.jpg" %}
 
-{% include image.html image="projects/proj-7/1.jpg" %}
+{% include image.html image="projects/proj-8/1.jpg" %}
 
-{% include image.html image="projects/proj-7/5.jpg" %}
+{% include image.html image="projects/proj-8/5.jpg" %}
 
-{% include image.html image="projects/proj-7/2.jpg" %}
+{% include image.html image="projects/proj-8/2.jpg" %}
 
-{% include image.html image="projects/proj-7/3.jpg" %}
+{% include image.html image="projects/proj-8/3.jpg" %}
 
-{% include image.html image="projects/proj-7/4.jpg" %}
+{% include image.html image="projects/proj-8/4.jpg" %}
