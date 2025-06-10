@@ -10,10 +10,10 @@ One notable achievement during my tenure at Atelje Al was my rapid acquisition o
 I also did different design projects at my position in Berlin office Buro 213, but they are not displayed here.
 
 
-{% include image.html image="projects/proj-10/1.jpg" %}
+{% include image.html image="projects/proj-11/1.jpg" %}
 
-{% include image.html image="projects/proj-10/2.jpg" %}
+{% include image.html image="projects/proj-11/2.jpg" %}
 
-{% include image.html image="projects/proj-10/3.jpg" %}
+{% include image.html image="projects/proj-11/3.jpg" %}
 
-{% include image.html image="projects/proj-10/4.jpg" %}
+{% include image.html image="projects/proj-11/4.jpg" %}
