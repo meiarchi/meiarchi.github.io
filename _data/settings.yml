@@ -11,16 +11,17 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Generative AI',   url: 'proj-1'}
-- {name: 'Creative Urban Regeneration of Smderevo Waterfront',   url: 'proj-2'}
-- {name: 'Rehabilitation center on Avala', url: 'proj-3'}
-- {name: 'Sustainable green neighborhood',  url: 'proj-4'}
-- {name: '”Kala” research center',  url: 'proj-5'}
-- {name: 'Wooden Japanese pavilion',  url: 'proj-6'}
-- {name: 'Vračar luxury housing',  url: 'proj-7'}
-- {name: 'Archaeological and Landscape Living Lab',  url: 'proj-8'}
-- {name: 'Work projects interior design',  url: 'proj-9'}
-- {name: 'Work projects exterior design',  url: 'proj-10'}
+- {name: 'Conceptual architectural competition_Modular Prefabricated House',   url: 'proj-1'}
+- {name: 'Generative AI',   url: 'proj-2'}
+- {name: 'Creative Urban Regeneration of Smderevo Waterfront',   url: 'proj-3'}
+- {name: 'Rehabilitation center on Avala', url: 'proj-4'}
+- {name: 'Sustainable green neighborhood',  url: 'proj-5'}
+- {name: '”Kala” research center',  url: 'proj-6'}
+- {name: 'Wooden Japanese pavilion',  url: 'proj-7'}
+- {name: 'Vračar luxury housing',  url: 'proj-8'}
+- {name: 'Archaeological and Landscape Living Lab',  url: 'proj-9'}
+- {name: 'Work projects interior design',  url: 'proj-10'}
+- {name: 'Work projects exterior design',  url: 'proj-11'}
 
 #-------------------------------
 # Contact Section
