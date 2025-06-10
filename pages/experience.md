@@ -6,11 +6,11 @@ permalink: /experience
 
 # Experience
 
-02.2024 - Present 
+02.2024 - 03.2024 
 Architect - K-MÄLEON, Berlin, Germany
-- Preparation of design plans - concept design and building permits (LPH1-LPH9 in EliteCAD), site visits,  
+- Preparation of design plans - concept design and building permits (LPH1-LPH9 in BIM - EliteCAD), site visits,  
   preparation of exposés and presentations, represented the office at conferences (GreeNest) 
-- Visualizations and 3D models using CAD programs (EliteCAD, LUMION)  
+- Visualizations and 3D models using CAD programs (EliteCAD (BIM), LUMION)  
 
 4.2023 - 8.2023
 Architect - 213 Buro, Berlin, Germany
@@ -64,6 +64,7 @@ Intern Architect - Ja&co, Belgrade, Serbia
 - Lumion
 - Generative AI
 - AutoCAD
+- ArchiCAD
 - Adobe Creative Suite : 
    - InDesign
    - Photoshop 
@@ -80,8 +81,9 @@ Intern Architect - Ja&co, Belgrade, Serbia
 - Serbian - mother tongue 
 - Croatian - mother tongue  
 - English - advanced / fluent
+- German - advanced
 - Chinese - intermediate
-- German - beginner
+
 
 # Programming Languages 
 - HTML
