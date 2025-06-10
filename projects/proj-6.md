@@ -1,18 +1,16 @@
 ---
 layout: post
-title: 'Wooden Japanese pavilion'
+title: '”Kala” research center'
 ---
 
-Idea was to create a modern gallery with wooden construction. Through this project I wanted to explore traditional and modern Japanese constructions. Kengo Kuma’s modern Japanese roofs were my main research.
+The work treats a selected area in Ada Safari in Belgrade, Serbia, but it can be implemented in other parts of the world. The idea was to create a research center that is suitable to be implemented in different locations and within it to investigate the biodiversity of that location. Modern steel construction was used for the project.
 
-Project was done under mentorship of prof. Ljiljana Đukanović and asst. Dijana Savanović in year 2018 summer semester.
+The project was done under mentorship of Asst. Dalia Dukanac in year 2016 winter semester.
 
-{% include image.html image="projects/proj-6/1.jpg" %}
+{% include image.html image="projects/proj-5/1.jpg" %}
 
-{% include image.html image="projects/proj-6/2.jpg" %}
+{% include image.html image="projects/proj-5/2.jpg" %}
 
-{% include image.html image="projects/proj-6/3.jpg" %}
+{% include image.html image="projects/proj-5/3.jpg" %}
 
-{% include image.html image="projects/proj-6/4.jpg" %}
-
-{% include image.html image="projects/proj-6/5.jpg" %}
+{% include image.html image="projects/proj-5/4.jpg" %}
