@@ -7,12 +7,12 @@ Idea was to create a modern gallery with wooden construction. Through this proje
 
 Project was done under mentorship of prof. Ljiljana Đukanović and asst. Dijana Savanović in year 2018 summer semester.
 
-{% include image.html image="projects/proj-6/1.jpg" %}
+{% include image.html image="projects/proj-7/1.jpg" %}
 
-{% include image.html image="projects/proj-6/2.jpg" %}
+{% include image.html image="projects/proj-7/2.jpg" %}
 
-{% include image.html image="projects/proj-6/3.jpg" %}
+{% include image.html image="projects/proj-7/3.jpg" %}
 
-{% include image.html image="projects/proj-6/4.jpg" %}
+{% include image.html image="projects/proj-7/4.jpg" %}
 
-{% include image.html image="projects/proj-6/5.jpg" %}
+{% include image.html image="projects/proj-7/5.jpg" %}
