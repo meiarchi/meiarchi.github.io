@@ -7,10 +7,10 @@ The work treats a selected area in Ada Safari in Belgrade, Serbia, but it can be
 
 The project was done under mentorship of Asst. Dalia Dukanac in year 2016 winter semester.
 
-{% include image.html image="projects/proj-5/1.jpg" %}
+{% include image.html image="projects/proj-6/1.jpg" %}
 
-{% include image.html image="projects/proj-5/2.jpg" %}
+{% include image.html image="projects/proj-6/2.jpg" %}
 
-{% include image.html image="projects/proj-5/3.jpg" %}
+{% include image.html image="projects/proj-6/3.jpg" %}
 
-{% include image.html image="projects/proj-5/4.jpg" %}
+{% include image.html image="projects/proj-6/4.jpg" %}
