@@ -9,12 +9,12 @@ Project was done under mentorship of prof. Aleksandra Đukić and asst. Branisla
 
 This project was part of FLAGSHIP PROJECTS -Creative Urban Regeneration of Smderevo Waterfront.
 
-{% include image.html  image="projects/proj-2/5.jpg" %}
+{% include image.html  image="projects/proj-3/5.jpg" %}
 
-{% include image.html  image="projects/proj-2/1.jpg" %}
+{% include image.html  image="projects/proj-3/1.jpg" %}
 
-{% include image.html  image="projects/proj-2/2.jpg" %}
+{% include image.html  image="projects/proj-3/2.jpg" %}
 
-{% include image.html  image="projects/proj-2/3.jpg" %}
+{% include image.html  image="projects/proj-3/3.jpg" %}
 
-{% include image.html  image="projects/proj-2/4.jpg" %}
+{% include image.html  image="projects/proj-3/4.jpg" %}
