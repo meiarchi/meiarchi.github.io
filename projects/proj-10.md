@@ -10,14 +10,14 @@ In this capacity, I was responsible for crafting interior spaces that seamlessly
 I also did interior design at my position in Berlin office Buro 213, but they are not displayed here.
 
 
-{% include image.html image="projects/proj-9/1.jpg" %}
+{% include image.html image="projects/proj-10/1.jpg" %}
 
-{% include image.html image="projects/proj-9/2.jpg" %}
+{% include image.html image="projects/proj-10/2.jpg" %}
 
-{% include image.html image="projects/proj-9/3.jpg" %}
+{% include image.html image="projects/proj-10/3.jpg" %}
 
-{% include image.html image="projects/proj-9/4.jpg" %}
+{% include image.html image="projects/proj-10/4.jpg" %}
 
-{% include image.html image="projects/proj-9/5.jpg" %}
+{% include image.html image="projects/proj-10/5.jpg" %}
 
-{% include image.html image="projects/proj-9/6.jpg" %}
+{% include image.html image="projects/proj-10/6.jpg" %}
