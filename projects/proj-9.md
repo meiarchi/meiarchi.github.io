@@ -7,22 +7,22 @@ The theme of the summer school was to revive Abruzzo as a place. As an urban pla
 
 Project was done with co-authors Adriana Menghi, Burak Aydin and Chiara Cossidente, under mentorship of prof. Massimo Angrilli and arch. Valentina Ciuffreda, summer school 2021.
 
-{% include image.html image="projects/proj-8/1.jpg" %}
+{% include image.html image="projects/proj-9/1.jpg" %}
 
-{% include image.html image="projects/proj-8/2.jpg" %}
+{% include image.html image="projects/proj-9/2.jpg" %}
 
-{% include image.html image="projects/proj-8/3.jpg" %}
+{% include image.html image="projects/proj-9/3.jpg" %}
 
-{% include image.html image="projects/proj-8/4.jpg" %}
+{% include image.html image="projects/proj-9/4.jpg" %}
 
-{% include image.html image="projects/proj-8/5.jpg" %}
+{% include image.html image="projects/proj-9/5.jpg" %}
 
-{% include image.html image="projects/proj-8/6.jpg" %}
+{% include image.html image="projects/proj-9/6.jpg" %}
 
-{% include image.html image="projects/proj-8/7.jpg" %}
+{% include image.html image="projects/proj-9/7.jpg" %}
 
-{% include image.html image="projects/proj-8/8.jpg" %}
+{% include image.html image="projects/proj-9/8.jpg" %}
 
-{% include image.html image="projects/proj-8/9.jpg" %}
+{% include image.html image="projects/proj-9/9.jpg" %}
 
-{% include image.html image="projects/proj-8/10.jpg" %}
+{% include image.html image="projects/proj-9/10.jpg" %}
