@@ -1,16 +1,20 @@
 ---
 layout: post
-title: '”Kala” research center'
+title: 'Sustainable green neighborhood'
 ---
 
-The work treats a selected area in Ada Safari in Belgrade, Serbia, but it can be implemented in other parts of the world. The idea was to create a research center that is suitable to be implemented in different locations and within it to investigate the biodiversity of that location. Modern steel construction was used for the project.
+The work treats a selected area in Višnjička Banja in Belgrade, Serbia. The concept was based on a healthy city and sustainable architecture and living in modern dugouts with different private gardens. The  emphasis was on the contribution by little gardens that can produce food for house owners. 
 
-The project was done under mentorship of Asst. Dalia Dukanac in year 2016 winter semester.
+The project was done under mentorship of prof. Zoran Đukanović in year 2017 winter semester.
 
-{% include image.html image="projects/proj-5/1.jpg" %}
+{% include image.html image="projects/proj-4/1.jpg" %}
 
-{% include image.html image="projects/proj-5/2.jpg" %}
+{% include image.html image="projects/proj-4/2.jpg" %}
 
-{% include image.html image="projects/proj-5/3.jpg" %}
+{% include image.html image="projects/proj-4/3.jpg" %}
 
-{% include image.html image="projects/proj-5/4.jpg" %}
+{% include image.html image="projects/proj-4/4.jpg" %}
+
+{% include image.html image="projects/proj-4/5.jpg" %}
+
+{% include image.html image="projects/proj-4/6.jpg" %}

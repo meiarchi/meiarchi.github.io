@@ -1,23 +1,28 @@
 ---
 layout: post
-title: 'Work projects_interior design'
+title: 'Archaeological and Landscape Living Lab'
 ---
 
-I predominantly focused on interior design projects at my position at Urban pro in Belgrade Serbia. These projects catered to discerning clients with a strong penchant for luxury, necessitating a keen eye for detail and an innate sense of opulence and aesthetics.
+The theme of the summer school was to revive Abruzzo as a place. As an urban planning and landscape team, we designed the concept of an Archaeological and Landscape Living Lab. It was necessary through various activities throughout all seasons to attract tourists as well as residents who would return and live again in a place like this from agriculture.
 
-In this capacity, I was responsible for crafting interior spaces that seamlessly blended sophistication with functionality. This encompassed the entire design process, from conceptualization to detailed planning and execution. My role involved developing comprehensive design plans, creating compelling renders for visualization, and overseeing the transformation of these concepts into real-world spaces.
+Project was done with co-authors Adriana Menghi, Burak Aydin and Chiara Cossidente, under mentorship of prof. Massimo Angrilli and arch. Valentina Ciuffreda, summer school 2021.
 
-I also did interior design at my positions in Berlin offices Büro 213 and K-Mäleon Haus, but they are not displayed here.
+{% include image.html image="projects/proj-8/1.jpg" %}
 
+{% include image.html image="projects/proj-8/2.jpg" %}
 
-{% include image.html image="projects/proj-9/1.jpg" %}
+{% include image.html image="projects/proj-8/3.jpg" %}
 
-{% include image.html image="projects/proj-9/2.jpg" %}
+{% include image.html image="projects/proj-8/4.jpg" %}
 
-{% include image.html image="projects/proj-9/3.jpg" %}
+{% include image.html image="projects/proj-8/5.jpg" %}
 
-{% include image.html image="projects/proj-9/4.jpg" %}
+{% include image.html image="projects/proj-8/6.jpg" %}
 
-{% include image.html image="projects/proj-9/5.jpg" %}
+{% include image.html image="projects/proj-8/7.jpg" %}
 
-{% include image.html image="projects/proj-9/6.jpg" %}
+{% include image.html image="projects/proj-8/8.jpg" %}
+
+{% include image.html image="projects/proj-8/9.jpg" %}
+
+{% include image.html image="projects/proj-8/10.jpg" %}

@@ -1,19 +1,23 @@
 ---
 layout: post
-title: 'Work projects_exterior design'
+title: 'Work projects_interior design'
 ---
 
-In this role as an Junior Architect at Atelje AL, I was deeply involved in crafting small-scale urban designs, particularly for retail centers, private residences, and an upscale hotel. This encompassed the intricate task of designing both interior and exterior spaces, with a strong emphasis on luxury and aesthetics. My responsibilities extended to producing detailed design plans, developing captivating renders for both exterior and interior spaces, and contributing to the realization of high-end projects.
+I predominantly focused on interior design projects at my position at Urban pro in Belgrade Serbia. These projects catered to discerning clients with a strong penchant for luxury, necessitating a keen eye for detail and an innate sense of opulence and aesthetics.
 
-One notable achievement during my tenure at Atelje Al was my rapid acquisition of proficiency in Revit. Within just one month, I independently mastered this crucial architectural software, a feat that significantly bolstered my effectiveness in ongoing projects. This experience was transformative, enhancing my skill set and broadening my architectural perspective
+In this capacity, I was responsible for crafting interior spaces that seamlessly blended sophistication with functionality. This encompassed the entire design process, from conceptualization to detailed planning and execution. My role involved developing comprehensive design plans, creating compelling renders for visualization, and overseeing the transformation of these concepts into real-world spaces.
 
-I also did different design projects at my position in Berlin office Buro 213, but they are not displayed here.
+I also did interior design at my positions in Berlin offices Büro 213 and K-Mäleon Haus, but they are not displayed here.
 
 
-{% include image.html image="projects/proj-10/1.jpg" %}
+{% include image.html image="projects/proj-9/1.jpg" %}
 
-{% include image.html image="projects/proj-10/2.jpg" %}
+{% include image.html image="projects/proj-9/2.jpg" %}
 
-{% include image.html image="projects/proj-10/3.jpg" %}
+{% include image.html image="projects/proj-9/3.jpg" %}
 
-{% include image.html image="projects/proj-10/4.jpg" %}
+{% include image.html image="projects/proj-9/4.jpg" %}
+
+{% include image.html image="projects/proj-9/5.jpg" %}
+
+{% include image.html image="projects/proj-9/6.jpg" %}

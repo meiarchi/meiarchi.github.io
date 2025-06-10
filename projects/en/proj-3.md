@@ -1,26 +1,20 @@
 ---
 layout: post
-title: 'Rehabilitation center on Avala'
+title: 'Creative Urban Regeneration of Smderevo Waterfront'
 ---
 
-The work treats a selected area on Mountain Avala in Belgrade, Serbia, the concept was based on a healthy city and sustainable architecture, the project envisages rehabilitation, accommodation and garden rehabilitation, relaxation and recreation. Through different types of urban gardens, space users can recover, recreate and connect with nature. The greatest emphasis was on the smallest possible construction, and on the largest possible green space, as well as not to damage the forest itself, but to improve its condition.
+The work treats a selected area on riverside in Smderevo, Serbia, the concept was to create open green spaces, which are missing in Smederevo, as well as to finally create a promenade along the Danube river and provide better access to the fortress. The park is designed with several different zones that provide different activities. 
 
-The project was done in cooperation with colleague Marija Desić, under mentorship of prof. Biserka Mitrović and Asst. Jelena Marić in year 2021 winter semester of master studies. 
+Project was done under mentorship of prof. Aleksandra Đukić and asst. Branislav Antonić in year 2021 summer semester of master studies. 
 
-This project was at the XI Salon of landscape architecture in Belgrade, Serbia from Jun to July 2021
+This project was part of FLAGSHIP PROJECTS -Creative Urban Regeneration of Smderevo Waterfront.
 
-{% include image.html image="projects/proj-3/1.jpg" %}
+{% include image.html  image="projects/proj-2/5.jpg" %}
 
-{% include image.html image="projects/proj-3/2.jpg" %}
+{% include image.html  image="projects/proj-2/1.jpg" %}
 
-{% include image.html image="projects/proj-3/3.jpg" %}
+{% include image.html  image="projects/proj-2/2.jpg" %}
 
-{% include image.html image="projects/proj-3/4.jpg" %}
+{% include image.html  image="projects/proj-2/3.jpg" %}
 
-{% include image.html image="projects/proj-3/5.jpg" %}
-
-{% include image.html image="projects/proj-3/6.jpg" %}
-
-{% include image.html image="projects/proj-3/7.jpg" %}
-
-{% include image.html image="projects/proj-3/8.jpg" %}
+{% include image.html  image="projects/proj-2/4.jpg" %}
