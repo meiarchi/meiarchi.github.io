@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Conceptual architectural competition_Modular Prefabricated House'
+title: 'Türschmidtstraße 1 — BIM Renovation & Rooftop Extension'
 ---
 Location: Berlin, Germany · Year: 2026 · Type: Independent Professional Case Study
 
