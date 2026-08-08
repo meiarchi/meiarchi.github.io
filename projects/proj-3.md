@@ -1,27 +1,30 @@
 ---
 layout: post
-title: 'Smederevo Waterfront'
+title: 'Sustainable green neighborhood'
 ---
-Urban Regeneration · Public Space · Landscape Strategy
+Earth-Sheltered Housing in Višnjička Banja
+Location: Belgrade, Serbia · Year: 2017 · Type: University Project
 
-Location: Smederevo, Serbia · Year: 2021 · Type: Master’s Thesis
+Located on the sloping terrain of Višnjička Banja in Belgrade, the project explores an alternative model of residential development in which housing, landscape, and food production become part of one integrated system.
 
-The project explores the regeneration of a neglected section of the Smederevo waterfront along the Danube, focusing on the relationship between the city, its historic fortress, and the river. Despite its prominent location, the waterfront remains fragmented and poorly connected to the surrounding urban fabric, limiting both public access to the river and the potential of one of Smederevo’s most important historical landmarks.
+The project began with a question: What if the landscape surrounding a home could become productive rather than simply decorative?
 
-The project began with a central question: How can the waterfront become a continuous public landscape that reconnects the city with the Danube while strengthening the presence of the Smederevo Fortress?
+Instead of placing conventional residential buildings on top of the hillside, the proposal follows the natural topography through a series of elongated, earth-sheltered housing strips. The architecture is partially embedded into the terrain, reducing its visual presence while allowing the landscape to continue across planted roofs and between the individual residential rows.
 
-The proposal introduces a continuous riverside promenade combined with a network of open green spaces, pedestrian connections, and public programs. Rather than designing the waterfront as a single uniform park, the landscape is divided into several zones with different characters and activities — creating spaces for recreation, gathering, culture, movement, and quieter interaction with the river.
+Each dwelling opens toward a private productive garden conceived as an extension of the living space. These gardens provide residents with the possibility of growing vegetables, herbs, fruit, and other edible plants directly beside their homes, combining everyday domestic life with small-scale food production.
 
-A key part of the strategy was improving pedestrian accessibility between the city, the fortress, and the waterfront. Landscape, circulation, and public space were therefore developed as one interconnected system, transforming previously disconnected areas into a coherent sequence of urban spaces.
+The neighbourhood therefore operates simultaneously as housing and cultivated landscape. Productive gardens, green roofs, native planting, biodiversity, water management, and pedestrian spaces form a continuous environmental system rather than being treated as separate additions to the architecture.
 
-The project approaches the waterfront not simply as an empty area to be redesigned, but as an opportunity to strengthen Smederevo’s identity through its existing landscape, industrial and historical context, and relationship with the Danube.
+The organization of the neighbourhood responds directly to the slope. Repeating housing strips follow the contours of the terrain, while planted areas between them preserve openness, daylight, views, and connections to the surrounding landscape. From a distance, the settlement becomes part of the hillside rather than dominating it.
 
-Developed as my Master’s thesis under the mentorship of Prof. Aleksandra Đukić and Asst. Branislav Antonić, the project was also included in FLAGSHIP PROJECTS — Creative Urban Regeneration of Smederevo Waterfront.
+The project explores sustainability not only through environmental strategies, but through a different relationship between people and the places in which they live — one where residents participate in cultivating their immediate surroundings, food can be produced locally, and landscape becomes part of everyday domestic life.
 
-{% include image.html  image="projects/proj-3/1.jpg" %}
+Developed under the mentorship of Prof. Zoran Đukanović during the winter semester of 2017, the project represents an early exploration of themes that continued to influence my later work: landscape integration, sustainable living, adaptable residential environments, and architecture that responds directly to its context.
 
-{% include image.html  image="projects/proj-3/2.jpg" %}
+{% include image.html image="projects/proj-3/1.jpg" %}
 
-{% include image.html  image="projects/proj-3/3.jpg" %}
+{% include image.html image="projects/proj-3/2.jpg" %}
 
-{% include image.html  image="projects/proj-3/4.jpg" %}
+{% include image.html image="projects/proj-3/3.jpg" %}
+
+{% include image.html image="projects/proj-3/4.jpg" %}
