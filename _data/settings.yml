@@ -13,7 +13,7 @@ menu:
 projects:
 - {name: 'Türschmidtstraße 1 — BIM Renovation & Rooftop Extension',   url: 'proj-1'}
 - {name: 'Conceptual architectural competition_Modular Prefabricated House',   url: 'proj-2'}
-- {name: 'Creative Urban Regeneration of Smderevo Waterfront',   url: 'proj-3'}
+- {name: 'Smederevo Waterfront',   url: 'proj-3'}
 - {name: 'Rehabilitation center on Avala', url: 'proj-4'}
 - {name: 'Sustainable green neighborhood',  url: 'proj-5'}
 - {name: '”Kala” research center',  url: 'proj-6'}
