@@ -13,30 +13,30 @@ Through this exploration, I'm not only creating captivating designs but also gai
 Ultimately, my journey with AI in Photoshop isn't just about producing remarkable designs; it's about continuous improvement. It's a testament to how technology can elevate artistry, and I'm excited to see where this fusion of human creativity and artificial intelligence will take me in the futuristic world of architectural design.
 
 
-{% include image.html image="projects/proj-2/2.png" %}
+{% include image.html image="projects/proj-12/2.png" %}
 
-{% include image.html image="projects/proj-2/3.png" %}
+{% include image.html image="projects/proj-12/3.png" %}
 
-{% include image.html image="projects/proj-2/4.png" %}
+{% include image.html image="projects/proj-12/4.png" %}
 
-{% include image.html image="projects/proj-2/5.png" %}
+{% include image.html image="projects/proj-12/5.png" %}
 
-{% include image.html image="projects/proj-2/6.png" %}
+{% include image.html image="projects/proj-12/6.png" %}
 
-{% include image.html image="projects/proj-2/1.png" %}
+{% include image.html image="projects/proj-12/1.png" %}
 
-{% include image.html image="projects/proj-2/7.png" %}
+{% include image.html image="projects/proj-12/7.png" %}
 
-{% include image.html image="projects/proj-2/8.png" %}
+{% include image.html image="projects/proj-12/8.png" %}
 
-{% include image.html image="projects/proj-2/9.png" %}
+{% include image.html image="projects/proj-12/9.png" %}
 
-{% include image.html image="projects/proj-2/10.png" %}
+{% include image.html image="projects/proj-12/10.png" %}
 
-{% include image.html image="projects/proj-2/11.png" %}
+{% include image.html image="projects/proj-12/11.png" %}
 
-{% include image.html image="projects/proj-2/12.png" %}
+{% include image.html image="projects/proj-12/12.png" %}
 
-{% include image.html image="projects/proj-2/13.png" %}
+{% include image.html image="projects/proj-12/13.png" %}
 
-{% include image.html image="projects/proj-2/14.png" %}
+{% include image.html image="projects/proj-12/14.png" %}
