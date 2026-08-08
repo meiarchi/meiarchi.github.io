@@ -1,15 +1,22 @@
 ---
 layout: post
-title: 'Creative Urban Regeneration of Smderevo Waterfront'
+title: 'Smederevo Waterfront'
 ---
+Urban Regeneration · Public Space · Landscape Strategy
 
-The work treats a selected area on riverside in Smderevo, Serbia, the concept was to create open green spaces, which are missing in Smederevo, as well as to finally create a promenade along the Danube river and provide better access to the fortress. The park is designed with several different zones that provide different activities. 
+Location: Smederevo, Serbia · Year: 2021 · Type: Master’s Thesis
 
-Project was done under mentorship of prof. Aleksandra Đukić and asst. Branislav Antonić in year 2021 summer semester of master studies. 
+The project explores the regeneration of a neglected section of the Smederevo waterfront along the Danube, focusing on the relationship between the city, its historic fortress, and the river. Despite its prominent location, the waterfront remains fragmented and poorly connected to the surrounding urban fabric, limiting both public access to the river and the potential of one of Smederevo’s most important historical landmarks.
 
-This project was part of FLAGSHIP PROJECTS -Creative Urban Regeneration of Smderevo Waterfront.
+The project began with a central question: How can the waterfront become a continuous public landscape that reconnects the city with the Danube while strengthening the presence of the Smederevo Fortress?
 
-{% include image.html  image="projects/proj-3/5.jpg" %}
+The proposal introduces a continuous riverside promenade combined with a network of open green spaces, pedestrian connections, and public programs. Rather than designing the waterfront as a single uniform park, the landscape is divided into several zones with different characters and activities — creating spaces for recreation, gathering, culture, movement, and quieter interaction with the river.
+
+A key part of the strategy was improving pedestrian accessibility between the city, the fortress, and the waterfront. Landscape, circulation, and public space were therefore developed as one interconnected system, transforming previously disconnected areas into a coherent sequence of urban spaces.
+
+The project approaches the waterfront not simply as an empty area to be redesigned, but as an opportunity to strengthen Smederevo’s identity through its existing landscape, industrial and historical context, and relationship with the Danube.
+
+Developed as my Master’s thesis under the mentorship of Prof. Aleksandra Đukić and Asst. Branislav Antonić, the project was also included in FLAGSHIP PROJECTS — Creative Urban Regeneration of Smederevo Waterfront.
 
 {% include image.html  image="projects/proj-3/1.jpg" %}
 
