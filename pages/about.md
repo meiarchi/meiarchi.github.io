@@ -23,6 +23,10 @@ University of Belgrade, Belgrade, Serbia
 
 # Courses
 
+02.2026 - 09.2026
+
+Courses C1.1 and C1.2 at the VHS Berlin, Germany
+
 05.2025 - 07.2025 
 
 BIM Coordinator and BIM Manager courses in AGT academy Berlin, Germany
