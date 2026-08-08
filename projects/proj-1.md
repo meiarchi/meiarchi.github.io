@@ -2,21 +2,23 @@
 layout: post
 title: 'Conceptual architectural competition_Modular Prefabricated House'
 ---
-Organizer: Gradnja.rs · Year: 2025 · Type: Conceptual architectural competition
+Location: Berlin, Germany · Year: 2026 · Type: Independent Professional Case Study
 
-This regional competition invited architects to design a modular prefabricated house made up of three interconnected modules, each up to 50 m², with the goal of responding to the changing needs of a growing family. The brief emphasized adaptability, sustainability, and the creative use of prefabricated wooden, steel, or concrete systems. Entries were encouraged to reflect not only the physical context, but also the individuality of users and how their spatial needs might evolve
+Projekt Türschmidtstraße 1 is an independently developed architectural and BIM case study exploring the renovation, modernization, and rooftop extension of an existing mixed-use building in Berlin. Developed through the German HOAI workflow from LPH 1 to LPH 5, the project follows the transformation from existing-condition analysis and design variants to technical development, construction detailing, and visualization.
 
-My design began with a question: How can a home grow with life — not just in size, but in character, intimacy, and experience?
+The project began with a question: How can an aging urban building be transformed for contemporary living while preserving the structure and character already embedded within it?
 
-The concept is based on a wooden structural system, using glulam beams and columns, designed to be modular, flexible, and buildable. The first 50 m² module includes all necessary functions for a couple, expanded vertically through a mezzanine level that creates spatial layering without increasing the footprint — offering both privacy and openness.
+The existing building was first documented and reconstructed as a detailed BIM model, creating the basis for the entire design process. Its structure, dimensions, spatial organization, façade condition, and development potential were analysed before introducing new architectural interventions. Particular attention was given to opportunities for energy improvement, additional residential space, better outdoor areas, and a more coherent relationship between the building and its urban context.
 
-As the family grows, the house expands — not just horizontally, but vertically. One of the key ideas I explored was the possibility of removing and remounting the roof to add new layers over time. This required careful structural planning and logical sequencing of elements, while maintaining a clear visual identity and material honesty. The wooden roof frame remains visible, celebrating construction as architecture.
+Two renovation strategies were developed and compared according to architectural quality, structural intervention, construction complexity, and additional usable space. The selected concept introduces a recessed rooftop extension, enlarged balconies, renewed windows and façades, a new terrace, and improved connections to the exterior while retaining the principal structure of the existing building.
 
-Each module was imagined not just as an addition, but as a new moment in life — a children's room, a workspace, a space for rest and reflection. The transitions between modules — both vertical and horizontal — were carefully planned to preserve light, views, and flexibility.
+As the project progressed, the architectural concept was translated into a material and technical strategy. A restrained palette of mineral render, natural stone, dark standing-seam metal, aluminium, and glass distinguishes the new interventions while maintaining a clear relationship with the existing masonry building. The rooftop extension is deliberately expressed as a contemporary addition rather than an imitation of the historic structure below.
 
-Throughout the process, I thought not only about how the house is built — but how it can be lived in, changed, and loved. I aimed to create a system that is grounded in tradition (drawing from Japanese and Scandinavian influences) yet made for real, modern families, with attention to buildability, proportion, construction details, and emotional quality.
+The project was then developed toward execution level, including façade build-ups, window integration, balcony construction, thermal separation, waterproofing, roof-edge conditions, and material junctions. The BIM model remained the central design tool throughout this process, connecting spatial decisions with technical information and allowing the project to evolve consistently across different planning stages.
 
-This is not just a modular house — it is a living framework that can evolve with its inhabitants.
+Because confidentiality agreements prevent me from presenting much of my professional work in Germany, this project became an opportunity to demonstrate independently how I approach architecture in practice — from understanding an existing building and developing alternatives to resolving materials, construction details, and architectural atmosphere.
+
+More than a redesign of one building, the project represents my approach to BIM as a design methodology: using one evolving architectural model to connect concept, construction, information, and visual communication throughout the planning process.
 
 {% include image.html image="projects/proj-1/1.jpg" %}
 
@@ -30,10 +32,3 @@ This is not just a modular house — it is a living framework that can evolve wi
 
 {% include image.html image="projects/proj-1/6.jpg" %}
 
-{% include image.html image="projects/proj-1/7.jpg" %}
-
-{% include image.html image="projects/proj-1/8.jpg" %}
-
-{% include image.html image="projects/proj-1/9.jpg" %}
-
-{% include image.html image="projects/proj-1/10.jpg" %}
