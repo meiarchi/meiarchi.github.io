@@ -6,7 +6,14 @@ permalink: /experience
 
 # Experience
 
-02.2024 - 03.2024 
+09.2025 - now
+Architect - SPP - Schüttauf und Persike Planungsgesellschaft mbH, Berlin, Germany
+- Experience across HOAI Service Phases 1–5 using BIM-oriented workflows
+- Concept design, design development, permitting, and construction documentation for residential projects
+- Preparation of architectural drawings, building permit applications, and construction documentation
+- 3D modelling and visualisation using Allplan (BIM) and Lumion
+
+02.2024 - 03.2025 
 Architect - K-MÄLEON, Berlin, Germany
 - Preparation of design plans - concept design and building permits (LPH1-LPH9 in BIM - EliteCAD), site visits,  
   preparation of exposés and presentations, represented the office at conferences (GreeNest) 
