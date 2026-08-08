@@ -4,21 +4,11 @@ title: 'Türschmidtstraße 1 — BIM Renovation & Rooftop Extension'
 ---
 Location: Berlin, Germany · Year: 2026 · Type: Independent Professional Case Study
 
-Projekt Türschmidtstraße 1 is an independently developed architectural and BIM case study exploring the renovation, modernization, and rooftop extension of an existing mixed-use building in Berlin. Developed through the German HOAI workflow from LPH 1 to LPH 5, the project follows the transformation from existing-condition analysis and design variants to technical development, construction detailing, and visualization.
+Projekt Türschmidtstraße 1 is an independently developed architectural and BIM case study exploring the renovation, modernization, and rooftop extension of an existing mixed-use building in Berlin. Developed through the German HOAI workflow from LPH 1–5, the project asks how an aging urban building can be adapted for contemporary living while preserving its existing structure and character.
 
-The project began with a question: How can an aging urban building be transformed for contemporary living while preserving the structure and character already embedded within it?
+The building was reconstructed as a detailed BIM model and used to develop and compare two renovation strategies. The selected proposal introduces a recessed rooftop extension, enlarged balconies, façade and window renewal, improved outdoor spaces, and additional residential area while retaining the principal existing structure.
 
-The existing building was first documented and reconstructed as a detailed BIM model, creating the basis for the entire design process. Its structure, dimensions, spatial organization, façade condition, and development potential were analysed before introducing new architectural interventions. Particular attention was given to opportunities for energy improvement, additional residential space, better outdoor areas, and a more coherent relationship between the building and its urban context.
-
-Two renovation strategies were developed and compared according to architectural quality, structural intervention, construction complexity, and additional usable space. The selected concept introduces a recessed rooftop extension, enlarged balconies, renewed windows and façades, a new terrace, and improved connections to the exterior while retaining the principal structure of the existing building.
-
-As the project progressed, the architectural concept was translated into a material and technical strategy. A restrained palette of mineral render, natural stone, dark standing-seam metal, aluminium, and glass distinguishes the new interventions while maintaining a clear relationship with the existing masonry building. The rooftop extension is deliberately expressed as a contemporary addition rather than an imitation of the historic structure below.
-
-The project was then developed toward execution level, including façade build-ups, window integration, balcony construction, thermal separation, waterproofing, roof-edge conditions, and material junctions. The BIM model remained the central design tool throughout this process, connecting spatial decisions with technical information and allowing the project to evolve consistently across different planning stages.
-
-Because confidentiality agreements prevent me from presenting much of my professional work in Germany, this project became an opportunity to demonstrate independently how I approach architecture in practice — from understanding an existing building and developing alternatives to resolving materials, construction details, and architectural atmosphere.
-
-More than a redesign of one building, the project represents my approach to BIM as a design methodology: using one evolving architectural model to connect concept, construction, information, and visual communication throughout the planning process.
+The project was developed from concept through material strategy and execution-level detailing, including façade build-ups, windows, balconies, waterproofing, thermal separation, and roof connections. Created independently because confidentiality agreements limit the professional work I can publish, it demonstrates my approach to BIM as an integrated architectural process connecting design, construction, information, and visualization.
 
 {% include image.html image="projects/proj-1/1.jpg" %}
 
