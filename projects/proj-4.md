@@ -1,30 +1,27 @@
 ---
 layout: post
-title: 'Sanus Montis — Rehabilitation Centre on Avala'
+title: 'Smederevo Waterfront'
 ---
+Urban Regeneration · Public Space · Landscape Strategy
 
-Therapeutic Landscape · Sustainable Architecture · Healthcare
+Location: Smederevo, Serbia · Year: 2021 · Type: Master’s Thesis
 
-Location: Belgrade, Serbia · Year: 2021 · Type: University Project
+The project explores the regeneration of a neglected section of the Smederevo waterfront along the Danube, focusing on the relationship between the city, its historic fortress, and the river. Despite its prominent location, the waterfront remains fragmented and poorly connected to the surrounding urban fabric, limiting both public access to the river and the potential of one of Smederevo’s most important historical landmarks.
 
-Located within the forest landscape of Mount Avala in Belgrade, the project explores rehabilitation through the relationship between architecture, nature, and therapeutic landscape. Conceived as a rehabilitation and accommodation centre, it combines spaces for recovery, rest, recreation, and temporary residence with a network of gardens designed to make contact with nature an active part of the healing process.
+The project began with a central question: How can the waterfront become a continuous public landscape that reconnects the city with the Danube while strengthening the presence of the Smederevo Fortress?
 
-The project began with a simple principle: build as little as necessary and preserve as much of the landscape as possible.
+The proposal introduces a continuous riverside promenade combined with a network of open green spaces, pedestrian connections, and public programs. Rather than designing the waterfront as a single uniform park, the landscape is divided into several zones with different characters and activities — creating spaces for recreation, gathering, culture, movement, and quieter interaction with the river.
 
-Rather than treating the forest as a background for architecture, the existing natural environment became the starting point of the design. The building footprint was deliberately minimized to reduce intervention in the terrain and protect the existing vegetation, while the surrounding landscape was developed as a sequence of therapeutic outdoor spaces.
+A key part of the strategy was improving pedestrian accessibility between the city, the fortress, and the waterfront. Landscape, circulation, and public space were therefore developed as one interconnected system, transforming previously disconnected areas into a coherent sequence of urban spaces.
 
-Different garden typologies create varying sensory and recreational experiences throughout the site — including flowering gardens, aromatic and herb gardens, meadows, grasses, water elements, and quieter spaces for rest and reflection. Paths move gradually through these landscapes, allowing users to experience the site at different rhythms and levels of activity.
+The project approaches the waterfront not simply as an empty area to be redesigned, but as an opportunity to strengthen Smederevo’s identity through its existing landscape, industrial and historical context, and relationship with the Danube.
 
-Seasonal change forms an important part of the landscape strategy. Flowering species, aromatic plants, grasses, native trees, and evergreen vegetation were selected to create changing colours, textures, scents, and atmospheres throughout the year while reinforcing the existing character of the Avala forest.
+Developed as my Master’s thesis under the mentorship of Prof. Aleksandra Đukić and Asst. Branislav Antonić, the project was also included in FLAGSHIP PROJECTS — Creative Urban Regeneration of Smederevo Waterfront.
 
-The architecture remains intentionally restrained, allowing the landscape to dominate. Accommodation and rehabilitation spaces are integrated into the terrain with strong visual and physical connections to the gardens, creating an environment in which interior and exterior spaces continuously interact.
+{% include image.html  image="projects/proj-4/1.jpg" %}
 
-The project was developed in collaboration with Marija Desić, under the mentorship of Prof. Biserka Mitrović and Asst. Jelena Marić, during the winter semester of the Master’s programme in 2021.
+{% include image.html  image="projects/proj-4/2.jpg" %}
 
-It was exhibited at the XI Salon of Landscape Architecture in Belgrade, Serbia, in 2021.
-{% include image.html image="projects/proj-4/1.jpg" %}
+{% include image.html  image="projects/proj-4/3.jpg" %}
 
-{% include image.html image="projects/proj-4/2.jpg" %}
-
-{% include image.html image="projects/proj-4/3.jpg" %}
-
+{% include image.html  image="projects/proj-4/4.jpg" %}
