@@ -1,17 +1,13 @@
 ---
 layout: post
-title: 'Vračar luxury housing'
+title: '”Kala” research center'
 ---
 
-The project was based in centre of Vračar in Belgrade, Serbia near temple st. Sava. The idea was to create luxury apartments as that area of Belgrade is characterized as a luxury location. The idea was to create special spaces on overhangs that extend like terraces from penthouses that have viewed on temple st. Sava or green areas near the building.  
+The work treats a selected area in Ada Safari in Belgrade, Serbia, but it can be implemented in other parts of the world. The idea was to create a research center that is suitable to be implemented in different locations and within it to investigate the biodiversity of that location. Modern steel construction was used for the project.
 
-The project was done under mentorship of prof. Shin Yokoo, prof. Vladimir Lojanica and Asst. Ksenija Pantović in year 2018 winter semester.
-
-{% include image.html image="projects/proj-8/6.jpg" %}
+The project was done under mentorship of Asst. Dalia Dukanac in year 2016 winter semester.
 
 {% include image.html image="projects/proj-8/1.jpg" %}
-
-{% include image.html image="projects/proj-8/5.jpg" %}
 
 {% include image.html image="projects/proj-8/2.jpg" %}
 
