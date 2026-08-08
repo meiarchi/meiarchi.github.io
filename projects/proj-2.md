@@ -26,14 +26,3 @@ This is not just a modular house — it is a living framework that can evolve wi
 
 {% include image.html image="projects/proj-2/4.jpg" %}
 
-{% include image.html image="projects/proj-2/5.jpg" %}
-
-{% include image.html image="projects/proj-2/6.jpg" %}
-
-{% include image.html image="projects/proj-2/7.jpg" %}
-
-{% include image.html image="projects/proj-2/8.jpg" %}
-
-{% include image.html image="projects/proj-2/9.jpg" %}
-
-{% include image.html image="projects/proj-1/10.jpg" %}
