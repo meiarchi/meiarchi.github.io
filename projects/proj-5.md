@@ -11,7 +11,7 @@ Located within the forest landscape of Mount Avala in Belgrade, the project expl
 
 The design follows a simple principle: build as little as necessary and preserve as much of the landscape as possible. The building footprint is minimized to protect the existing forest, while a sequence of flowering, aromatic, herb, meadow, grass, and water gardens creates different sensory experiences throughout the site.
 
-The architecture remains intentionally restrained, allowing the landscape to dominate and creating strong connections between interior and exterior spaces. Developed in collaboration with Marija Desić under the mentorship of Prof. Biserka Mitrović and Asst. Jelena Marić, the project was exhibited at the XI Salon of Landscape Architecture in Belgrade in 2021.
+The architecture remains intentionally restrained, allowing the landscape to dominate and creating strong connections between interior and exterior spaces. Developed in collaboration with Marija Desić under the mentorship of Prof. Biserka Mitrović and Asst. Jelena Marić, the project was exhibited at the IX Salon of Landscape Architecture in Belgrade in 2021 (Link: https://www.upa.org.rs/wp-content/uploads/2021/05/9th-LA-Exhibition-2021-Selected-Projects.pdf) 
 
 {% include image.html image="projects/proj-5/1.jpg" %}
 
